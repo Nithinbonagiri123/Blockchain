@@ -1,0 +1,1 @@
+This health insurance application is decentralized and incorporates several new technologies to offer the users a secure, transparent, and efficient means to obtain health insurance services and verify medication coverage.
